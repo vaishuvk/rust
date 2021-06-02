@@ -1,0 +1,12 @@
+[package]
+name = "mysql-test"
+version = "0.1.0"
+authors = ["vaishnavik"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mysql = "16.1.0"
+chrono = "0.4"
+dotenv = "0.9.0"
